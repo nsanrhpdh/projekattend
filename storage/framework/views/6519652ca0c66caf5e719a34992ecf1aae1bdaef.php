@@ -1,0 +1,2 @@
+<img src="<?php echo e(url('logo-pendidikan.png')); ?>" alt="" width="150">
+<?php /**PATH C:\xampp\htdocs\pendataan-prestasi-laravel-main\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
